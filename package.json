@@ -1,0 +1,34 @@
+{
+  "name": "x-console",
+  "description": "Color console",
+  "author": {
+    "name": "Sergei Vizel",
+    "email": "sergei.vizel@gmail.com",
+    "url": "https://github.com/cravler"
+  },
+  "homepage": "https://github.com/cravler/x-console",
+  "keywords": [
+    "console",
+    "library"
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.2"
+  },
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cravler/x-console.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cravler/x-console/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
