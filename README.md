@@ -1,4 +1,4 @@
-# x-concole
+# x-console
 
 Color console
 
@@ -8,7 +8,7 @@ Color console
 $ npm install x-console
 ```
 
-x-concole depends on [Node.js](http://nodejs.org/).
+x-console depends on [Node.js](http://nodejs.org/).
 
 ## Usage
 
