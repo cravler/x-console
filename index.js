@@ -2,7 +2,6 @@
 
 var util = require('util');
 var colors = require('colors/safe');
-colors.enabled = true;
 
 module.exports = console;
 
